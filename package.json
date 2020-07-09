@@ -18,5 +18,8 @@
   "homepage": "https://github.com/theodorebutts/jestRPG#readme",
   "devDependencies": {
     "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.0"
   }
 }
